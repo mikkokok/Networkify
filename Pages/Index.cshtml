@@ -1,0 +1,11 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Networkify";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Your information</h1>
+    <p>IP: @Model.UserNetworkInfo.ip</p>
+    <p>Port: @Model.UserNetworkInfo.port</p>
+</div>
