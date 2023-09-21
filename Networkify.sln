@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networkify", "Networkify.csproj", "{93AC0A94-D64F-4589-BD4D-DC6DE86AC114}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networkify", "Networkify.csproj", "{CAEC25EB-44FC-4E8C-AF04-A92714A0E9CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{93AC0A94-D64F-4589-BD4D-DC6DE86AC114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93AC0A94-D64F-4589-BD4D-DC6DE86AC114}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93AC0A94-D64F-4589-BD4D-DC6DE86AC114}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93AC0A94-D64F-4589-BD4D-DC6DE86AC114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAEC25EB-44FC-4E8C-AF04-A92714A0E9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEC25EB-44FC-4E8C-AF04-A92714A0E9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEC25EB-44FC-4E8C-AF04-A92714A0E9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEC25EB-44FC-4E8C-AF04-A92714A0E9CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CD85CEDC-7680-47DC-A1F8-B319627C69B0}
+		SolutionGuid = {A4C7F3E5-84F6-4793-9D87-A8FC7575DB51}
 	EndGlobalSection
 EndGlobal
